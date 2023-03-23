@@ -1,0 +1,2 @@
+Please follow these steps to download the update:
+Log into the Admin Panel -> Manage Updates -> Check for Update -> Download
